@@ -1,12 +1,4 @@
 # Webstagram
 instagram clon
 
-
-
-#테스트
-
-
-#테스트2
-
-
-#테스트3
+# 제발 좀 되라고;;
